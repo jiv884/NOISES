@@ -1,0 +1,51 @@
+body{
+    background-color:rgb(32, 29, 29)
+    }
+    
+  #v1{
+    margin-left:30px;
+    margin-top:10px;
+    margin-bottom:2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:30px;
+    color:rgb(255, 255, 255);
+  }
+
+
+
+  #v2,#v4,#v6,#v8,#v10,#v12,#v14,#v16,#v18,#v20,#v22,#v24,#v26,#v28,#v30,#v32,#v34,#v36,#v37,#v38,#v40{
+    margin-left:200px;
+    margin-top:10px;
+    margin-bottom:2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:20px;
+    color:rgb(126, 122, 122);
+  }
+
+  #v36:hover{
+    font-size:35px;
+    color:red;
+  }
+  
+  #v3,#v5,#v7,#v9,#v11,#v13,#v15,#v17,#v19,#v21,#v23,#v25,#v27,#v29,#v31,#v33,#v35,#v39{
+    margin-left:800px;
+    margin-top:10px;
+    margin-bottom:2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:20px;
+    color:rgb(0, 0, 0);
+  }
+
+
+  
+
+  
+  #photo{
+      margin-top:40px;
+      margin-left:300px;
+  }
+  a{
+      font-size:20px;
+    margin-left:30px;
+    margin-bottom:20px;
+  }

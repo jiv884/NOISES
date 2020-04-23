@@ -1,0 +1,68 @@
+body,html{
+    background-color: black;
+	margin: 0%;
+	padding: 0%;
+	height: 100%;
+}
+/* .videocontainer {
+	background-attachment: fixed;
+  background-size: cover;
+	float: left;
+	width: 100%;
+	position: fixed;
+	z-index: -100;
+}
+.ParallaxImage {
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 1000px;
+  padding-top: 50px;
+}
+.ParallaxImage h1 {
+  font-weight: 700;
+  font-size: 76px;
+  text-align: center;
+  text-transform: uppercase;
+  color:#FFF;
+} */
+/*___________________________________*/
+.ParallaxVideo video{
+min-width: 100%;
+position: fixed;
+top:0;
+z-index: -999;
+}
+.contentcontainer {
+	padding-top: 90%;
+}
+.ParallaxContent {
+  background: none repeat scroll 0 0 #ffffff;
+  padding: 100px 0;
+	padding-top: 5%;
+  color:#ffffff;
+}
+.ParallaxContent h1{
+	color:#c01212;
+}
+.menu {
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 48pt;
+}
+#collection {
+	display: inline-block;
+	overflow: hidden;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 36pt;
+    color: red;
+}
+
+
+/*___________________________________
+.ParallaxVideo{
+height: 300px;
+padding-bottom: 50px;
+padding-top: 50px;
+} */
